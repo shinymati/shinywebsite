@@ -1,0 +1,24 @@
+body {
+	font-family: helvetica, arial, sans-serif;
+	max-width: 720px;
+	font-size: 14px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: auto;
+	line-height: 1.4;
+	background: rgb(255, 255, 255);
+}
+
+#header {
+	font-family: helvetica, arial, sans-serif;
+	margin: auto;
+}
+
+.wrapper {
+	text-align: center; 
+	margin: auto;
+}
+
+.logo {
+	padding: 10px;
+}
